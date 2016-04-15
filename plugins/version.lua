@@ -1,11 +1,11 @@
 do
 
 function run(msg, matches)
-  return [[TeleManagerPlus
+  return [[Zedspamgroupbot
   
   Bot Version : 2.2.0
   
-  For more Information send /telemanagerplus to chat ]]
+  For more Information Zedspam Group to chat ]]
 end
 
 return {
