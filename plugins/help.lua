@@ -166,8 +166,7 @@ member
  !feedback [msg]
  
  !share
- 
- !telemanagerplus
+
  
  !sticker [TXT]
  ==========================
